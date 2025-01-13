@@ -1,0 +1,10 @@
+torch
+rich
+torchvision
+pillow
+glob2
+wandb
+matplotlib
+tensordict
+jason
+opencv-contrib-python
